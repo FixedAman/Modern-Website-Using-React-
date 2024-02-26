@@ -77,14 +77,14 @@ border-bottom-right-radius: 5px;
   width: 181.79px;
   height: 38px;
 }
-.gpt3__header-content__people p{
-  margin:  0 0 0 f 1rem;
-  font-family: var(--font-family);
-  font-style: normal;
-  font-size: 12px;
-  line-height: 38px;
-  color: #fff;
- text-align: center;
+.gpt3__header-content__people p {
+margin:  0 0 0 f 1rem;
+font-family: var(--font-family);
+font-style: normal;
+font-size: 12px;
+line-height: 38px;
+color: #fff;
+text-align: center;
 
 }
 .gpt3__header-image{
